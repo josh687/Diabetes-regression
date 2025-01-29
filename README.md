@@ -1,6 +1,6 @@
-# STAT_301_Group_31
 
-# Group Final Report
+
+#Final Report
 Create an electronic report with a maximum of 2000 words (excluding citations) using Jupyter. The report should include the posed question, conducted analysis, and derived conclusion. Only one team member needs to submit this report. It is not required to include all tasks completed by each group member in their individual assignments. Make sure to reach a consensus among all team members on the final content of the report. If needed, consult your TA and Instructor for further guidance.
 
 You must submit two files:
